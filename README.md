@@ -1,6 +1,6 @@
-# Firecrack :fire:
+# BrettCrack :fire:
 
-What is firecrack tools ?
+What is Brett Crack tools ?
 Firecrack tools are tools for testing and testing on websites or Facebook accounts, conducting<br>
 testing on hundreds of Facebook accounts with random accounts and random wordlist, and there are<br>
 for testing websites, such as admin finder and deface with file upload method, and Bing dorking<br>
